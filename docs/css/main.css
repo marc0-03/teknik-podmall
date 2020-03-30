@@ -1,0 +1,56 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: rgba(77,61,58,1);
+    background-color:rgba(77,61,58,0.1);;
+}
+
+p {
+    font-size: 1em;
+}
+
+audio {
+    width: 100%;
+    padding-top: 2em;
+}
+
+audio:focus {
+    outline: none;
+}
+
+footer {
+    font-size: 0.8em;
+    color: rgba(77,61,58,0.6);
+}
+
+.lead {
+    font-size: 1.2em;
+    color: rgba(77,61,58,0.8);
+    padding-bottom: 1em;
+}
+
+.content {
+    margin-left: 4em;
+    width: 40em;
+}
+
+.container {
+    padding: 1em 1em;
+}
+
+.cover-image {
+    width: 100%;
+}
+
+.credits {
+    list-style: none;
+}
+
+.list-item {
+    color: rgba(77,61,58,0.6);
+    padding-bottom: 1em;
+}
+
+.list-item:hover {
+    color: rgba(77,61,58,1);
+}
