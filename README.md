@@ -23,8 +23,14 @@ Podden bör finnas i formaten, Mp3, OGG/vorbis samt AAC(mp4)
 ### Webbsidan
 
 Redigera HTML och CSS dokument. Placera filer på rätt ställen.
+Filerna som ska synas på webben ska ligga i docs.
+Bilder i docs/img och ljud i docs/audio
+
+I index.html så behöver ni ändra texten, vilken bild som ska användas och ljudet.
+Vill ni göra ändringar på färger och typsnitt så redigerar ni docs/css/main.css
 
 Ladda upp på git och slå på pages för att hosta.
+Du slår på pages i settings, scrolla ned till pages och dela från master/docs.
 
 Var noga med att material du laddar upp är sådan du får dela.
 Kolla licenser och länka till upphovsperson om det krävs.
